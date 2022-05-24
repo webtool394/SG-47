@@ -1,21 +1,21 @@
-﻿// multi smtp only duplicate as many objects as possible
+// multi smtp only duplicate as many objects as possible
 exports.smtp = [
 	{
-		host : "email-smtp.us-east-1.amazonaws.com",
+		host : "email-smtp.us-west-2.amazonaws.com",
 		port : "587",
 		auth : true, 
-		user  : "AKIATNCWU4RHXVR5HKWX",
-		pass : "BJM9Aqbv9ZIRNX5mmKLVb5WI4hk+NLLXiOKwhE2t4ttG"
+		user  : "AKIAWZ4FXMOCMJSNSR5M",
+		pass : "BNCL9YH6on1+ObDIoUQ/tZ6AdJGLVD6A4O9oZI7wTFyB"
     }
 ];
 
 // Message Info
 exports.message = [
 	{
-	fromName	: "planner@{domain}",
-		fromEmail	: "support@mkt-mail.ithome.com.tw",
+	fromName	: "Done DOO",
+		fromEmail	: "connect@homemadefood.app",
 		replyTo	: "addmins@mortgaggeloans.com",
-	subject		: "Invitiation - New Task Due {date}",
+	subject		: "NO OF",
 	}
 ];
 
