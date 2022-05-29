@@ -1,11 +1,11 @@
 // multi smtp only duplicate as many objects as possible
 exports.smtp = [
 	{
-		host : "email-smtp.us-west-2.amazonaws.com",
+		host : "",
 		port : "587",
 		auth : true, 
-		user  : "AKIAWZ4FXMOCMJSNSR5M",
-		pass : "BNCL9YH6on1+ObDIoUQ/tZ6AdJGLVD6A4O9oZI7wTFyB"
+		user  : "",
+		pass : ""
     }
 ];
 
